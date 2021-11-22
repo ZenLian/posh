@@ -1,6 +1,4 @@
-# My Powershell Configurations
-
-[TOC]
+# My Zsh-like Powershell Configuration
 
 ## Prerequisites
 
