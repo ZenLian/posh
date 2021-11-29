@@ -1,6 +1,6 @@
 # My Powershell Configurations
 
-[TOC]
+[toc]
 
 ## Prerequisites
 
@@ -21,6 +21,7 @@ Install Modules:
 Install-Module oh-my-posh -Scope CurrentUser -Force
 Install-Module PSFzf -Scope CurrentUser -Force
 Install-Module ZLocation -Scope CurrentUser -Force
+Install-Module DirColors -Scope CurrentUser -Force
 ```
 
 put this file at `$HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1` then reload:

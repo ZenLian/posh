@@ -15,6 +15,8 @@ Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory
 Set-PsFzfOption -TabExpansion
 Set-PSReadLineKeyHandler -Key Tab -ScriptBlock { Invoke-FzfTabCompletion }
 
+Import-Module DirColors
+
 # thefuck
 $env:PYTHONIOENCODING="utf-8"
 iex "$(thefuck --alias)"
