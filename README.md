@@ -1,10 +1,9 @@
 # My Zsh-like Powershell Configuration
 
-[Prerequisites](#Prerequisites)
-[Install](#Install)
+- [Prerequisites](#Prerequisites)
+- [Install](#Install)
 
-<a name="Prerequisites"/>
-## Prerequisites
+## <a name="Prerequisites"/>Prerequisites
 
 1. powershell core 7.1+
 2. install at least one of [nerd-fonts](https://github.com/ryanoasis/nerd-fonts/releases). I prefer [CascadiaCode](https://github.com/ryanoasis/nerd-fonts/releases/v2.1.0/CascadiaCode.zip).
@@ -15,8 +14,7 @@
 pip install thefuck
 ```
 
-<a name="Install"/>
-## Install
+## <a name="Install"/>Install
 
 Install Modules:
 
