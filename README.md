@@ -1,7 +1,9 @@
-# My Powershell Configurations
+# My Zsh-like Powershell Configuration
 
-[toc]
+[Prerequisites](#Prerequisites)
+[Install](#Install)
 
+<a name="Prerequisites"/>
 ## Prerequisites
 
 1. powershell core 7.1+
@@ -13,6 +15,7 @@
 pip install thefuck
 ```
 
+<a name="Install"/>
 ## Install
 
 Install Modules:
